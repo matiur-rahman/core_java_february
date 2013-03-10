@@ -13,8 +13,6 @@ public class ApplyString {
 		System.out.println(name.trim());
 		System.out.println(name.compareTo("BCDEFGH"));
 		System.out.println("After concatination : " + name.concat(state));
-		
-
 	}
 
 }
